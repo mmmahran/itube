@@ -1,0 +1,10 @@
+{
+  "name": "itube",
+  "version": "1.0.0",
+  "description": "Cloning Youtub with Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "Mahran",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
